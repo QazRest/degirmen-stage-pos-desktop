@@ -1,0 +1,1 @@
+# degirmen-stage-pos-desktop
